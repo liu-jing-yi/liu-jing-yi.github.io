@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a Ph.D. student at the [Department of Chemistry](https://chem.cuhk.edu.hk), 
 the Chinese University of Hong Kong, under the supervision of
-[Prof. Xinglong Zhang](xinglong-zhang.github.io). Recently, my interest lies in exploring
+[Prof. Xinglong Zhang](https://xinglong-zhang.github.io). Recently, my interest lies in exploring
 the intersection of data-driven approaches and quantum chemistry, particularly in:
 - **Development of automation tools for computational chemistry**
 - **Machine learning interatomic potentials (MLIPs) for catalytic systems**
