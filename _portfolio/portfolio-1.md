@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "- Study of Isomerization Step of [P,O]-Chelated Nickel Catalysts"
+excerpt: "<br/><strong>Published:</strong> January 28, 2025
+<br/><strong>Duration:</strong> Oct 2024 – Present
+<br/><strong>Supervisor:</strong> Prof. Xinglong Zhang
+<br/><strong>Institution:</strong> The Chinese University of Hong Kong, China
+<br/>- Assisted in the revision of a research article on the isomerization processes involved in nickel-catalyzed copolymerization of ethylene with polar monomers.
+<br/>- Contributed to refining the study’s interpretation of DFT results, focusing on the mechanism and influence of auxiliary ligands on catalyst performance."
 collection: portfolio
+#date: 2025-01-28
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 

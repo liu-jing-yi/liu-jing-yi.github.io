@@ -6,3 +6,12 @@ services:
     ports: [ 4000:4000 ]
     user: 1000:1000
     command: jekyll serve -H 0.0.0.0 -w
+    develop:
+      watch:
+        - action: sync
+          path: ./web
+          target: /src/web
+          ignore:
+            - node_modules/
+        - action: rebuild
+          path: package.json
