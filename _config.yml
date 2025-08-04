@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Jingyi Liu / Computational Chemistry"
+title                    : "Jingyi Liu / Comp. Chem."
 title_separator          : "-"
 name                     : &name "Jingyi Liu"
 description              : &description "personal academic website for Jingyi Liu, Ph.D. student at the Chinese University of Hong Kong"
