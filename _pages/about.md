@@ -23,5 +23,5 @@ Prior to that, I obtained my Master's Degree from the prestigious [EM-TCCM progr
 where I have the opportunity to be supervised by [Prof. Jeremy Harvey](https://jeremyharveygroup.wordpress.com) 
 and [Prof. Daniel Escudero](https://danielescuderomasa.wixsite.com/website). My thesis entitled "QM/MM Calculations 
 on the Photochemistry of LSSmOrange Fluorescent Protein", where I explored the excited states properties of large 
-biomolecular systems. To know more about my previous research experiences, please see [here](/portfolio/portfolio-1/).
+biomolecular systems. To know more about my previous research experiences, please see [here](/portfolio/).
 
