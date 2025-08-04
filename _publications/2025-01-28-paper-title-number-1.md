@@ -11,4 +11,3 @@ paperurl: 'https://pubs.acs.org/doi/10.1021/acs.joc.4c02856'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Tan, J.; Liu, J.; Zhang, X. Unraveling the Mechanism and Influence of Auxiliary Ligands on the Isomerization of Neutral [P, O]-Chelated Nickel Complexes for Olefin Polymerization. J. Org. Chem. 2025, 90 (5), 2052–2061.'
 ---
-Tan, J.; Liu, J.; Zhang, X. Unraveling the Mechanism and Influence of Auxiliary Ligands on the Isomerization of Neutral [P, O]-Chelated Nickel Complexes for Olefin Polymerization. J. Org. Chem. 2025, 90 (5), 2052–2061.
