@@ -12,4 +12,4 @@ Our Poster on [CHEMSMART: Chemistry Simulation and Modelling Automation Toolkit]
 You can download the poster here: [chemsmart_poster.pdf](/images/chemsmart_poster.pdf)
 
 <!-- Display the PNG poster image directly (styled like other posts) and link it to the PDF for full-size viewing/download -->
-<a href="/images/chemsmart_poster.pdf"><img src="/images/chemsmart_poster.png" alt="CHEMSMART Poster" width="750"></a>
+<img src="/images/chemsmart_poster.png" alt="CHEMSMART Poster" width="750">
