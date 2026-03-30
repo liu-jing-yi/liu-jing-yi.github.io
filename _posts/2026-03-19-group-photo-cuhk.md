@@ -7,10 +7,7 @@ tags:
   - cuhk
 teaser: "group_pic_cuhk.png"
 ---
-
 Here's a group photo from CUHK.
-
-<!-- Display the PNG image directly (styled like other posts) -->
 <img src="/images/group_pic_cuhk.png" alt="Group photo @CUHK" width="750">
 
 
